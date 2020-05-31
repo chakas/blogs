@@ -1,1 +1,1 @@
-# chakas.guthub.io
+# chakas.github.io
